@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Culinary Companion</string>
+    <string name="search_hint" />
+    <string name="search_button_text" />
+    <string name="recipe_steps">Enter recipe steps</string>
+</resources>
